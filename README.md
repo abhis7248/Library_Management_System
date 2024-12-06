@@ -2,10 +2,10 @@
 
 # Screenshots
 
+![Screenshot from 2024-12-06 19-53-28](https://github.com/user-attachments/assets/8af7b912-3857-4700-abd0-83239153b54c)
+
 ![Screenshot from 2024-12-06 19-55-54](https://github.com/user-attachments/assets/f89f3c68-352a-4509-8eb0-ebddc2084d4a)
 
-
-![Screenshot from 2024-12-06 19-53-28](https://github.com/user-attachments/assets/8af7b912-3857-4700-abd0-83239153b54c)
 
 
 ## Tech Stack
